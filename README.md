@@ -1,5 +1,4 @@
-# python-template
-Template app to create python projects
+# Social Media Feed
 
 Install the virtualenv package  
 pip install virtualenv
